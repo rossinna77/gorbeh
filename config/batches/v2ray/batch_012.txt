@@ -1,1 +1,0 @@
-vless://3b1eabd2-7796-4e60-a6e2-0bca82cbc64e@45.157.234.46:443?&security=reality&flow=xtls-rprx-vision&pbk=D6XeTEyHUrcUWHuo5uNjBY3fQXhthHLLXdufndJlCGo&sid=fcc34c19a6bbe4bb&fp=firefox&sni=free6.anotherboring.top&type=tcp&headerType=none&host=free6.anotherboring.top&path=%2F#@rossinna77Github

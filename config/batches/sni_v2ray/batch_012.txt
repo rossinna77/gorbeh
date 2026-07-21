@@ -1,1 +1,0 @@
-vless://ad40a583-2d59-44ff-88cf-b5db0e1e00a7@127.0.0.1:40443?encryption=none&type=ws&host=edgetunnel.kalmevebto.workers.dev&path=%2F&security=tls&fp=chrome&sni=edgetunnel.kalmevebto.workers.dev#@rossinna77Github
