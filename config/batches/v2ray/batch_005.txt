@@ -1,2 +1,0 @@
-vless://3cb4c775-bf08-4158-a0e3-cbae9ac452d7@188.114.97.6:2096?security=tls&type=ws&path=/sync&host=orange-darkness-749f.phantomnettest1-65d.workers.dev&packetEncoding=xudp&sni=orange-darkness-749f.phantomnettest1-65d.workers.dev&fp=chrome&encryption=none#@rossinna77Github
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@rossinna77Github

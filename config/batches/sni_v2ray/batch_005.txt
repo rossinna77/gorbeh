@@ -1,2 +1,0 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@127.0.0.1:40443?security=reality&encryption=none&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asia.cendora.ru&sid=e53048e82bb20077#@rossinna77Github
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@127.0.0.1:40443?sni=139.59.238.97&allowInsecure=1&type=tcp&fp=chrome#@rossinna77Github

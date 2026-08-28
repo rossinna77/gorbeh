@@ -124,294 +124,6 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "7e70223b-f331-41d5-9313-02b8d2df2885"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "tsuchiya"
-    sni: "aa.ccmusic.jp"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "8qCNZU2XdtefT7uB4uPxgRR839btqMG8"
-    sni: "by01.botovod.space"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: ""
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-      headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1"
-    sni: "russiapower.accesscam.org"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "7e70223b-f331-41d5-9313-02b8d2df2885"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Aimer"
-    sni: "epge.muarua.filegear-sg.me"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/?proxyip=ts.hpc.tw"
-      headers:
-        Host: "epge.muarua.filegear-sg.me"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "pvZE3UfT0ziK1omVLlsjINBqeqqwab1M"
-    sni: "139.59.238.97"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "BxceQaOe"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "5931134d1cde66bf83a54acdfebe7ab2"
-    sni: "moltbot.doctoroyy.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "tttyder.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "mxlo.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "7e70223b-f331-41d5-9313-02b8d2df2885"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "77d6c87d-6cd2-48fe-8bda-b37fccf7f4a5"
-    sni: "iosapps.itunes.apple.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "77d6c87d-6cd2-48fe-8bda-b37fccf7f4a5"
-    sni: "iosapps.itunes.apple.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "HutaoCloud"
-    sni: "185.220.238.77"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/api"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Telegram_healer_config"
-    sni: "7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560"
-      headers:
-        Host: "7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
     password: "BxceQaOe"
     sni: "t.me/ripaojiedian"
     skip-cert-verify: true
@@ -433,6 +145,58 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "download.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
     password: "a126f35c-e832-4115-8593-b723ade3f7be"
     sni: "hk.catxstar.com"
     skip-cert-verify: true
@@ -441,15 +205,249 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "018b8e7b-7813-4dcb-84a5-3c98f1521e00"
-    sni: "id1.nathaya.web.id"
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/trojan"
+      path: "/assignment"
       headers:
-        Host: "id1.nathaya.web.id"
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "download.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "sshs8_6481354771"
+    sni: "ul-singapore1.09vpn.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ppmk"
+    sni: "flat-firefly-6022.rixewi3168.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "flat-firefly-6022.rixewi3168.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "fd3f82cc-bf25-4d3a-a379-09834800ade9"
+    sni: "jp200m.jiasu.asia"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "android"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -459,6 +457,74 @@ proxies:
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "pvZE3UfT0ziK1omVLlsjINBqeqqwab1M"
+    sni: "139.59.238.97"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi"
+    sni: "tr-switzerlandgopota.unlimited-access.ru"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -490,15 +556,6 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "7e70223b-f331-41d5-9313-02b8d2df2885"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
     password: "humanity"
     sni: "www.calmlunch.com"
     skip-cert-verify: true
@@ -512,14 +569,27 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "0b5fa773-6f37-4134-87d4-0c349742b6f6"
-    sni: "app-538961.user-y0o4gm.workers.dev"
+    password: "HutaoCloud"
+    sni: "185.220.238.77"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/"
+      path: "/api"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -528,6 +598,31 @@ proxies:
     sni: "hk.catxstar.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "tsuchiya"
+    sni: "aa.ccmusic.jp"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -545,15 +640,44 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "bpb-trojan"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/tr?ed=2560"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "gj1d4x2fvz4pc6y3"
+    sni: "uwu.dianaw.cc.cd"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net"
       headers:
-        Host: "www.calmlunch.com"
+        Host: "uwu.dianaw.cc.cd"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "M7v%w11Se*"
+    sni: "mxlo.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1"
+    sni: "russiapower.accesscam.org"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -569,10 +693,18 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "130.185.122.106"
-    port: 2053
-    password: "127.0.0.1"
-    sni: "130.185.122.106"
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -593,8 +725,85 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "018b8e7b-7813-4dcb-84a5-3c98f1521e00"
+    sni: "id1.nathaya.web.id"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/trojan"
+      headers:
+        Host: "id1.nathaya.web.id"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
     password: "kkzh2prsyr2ik47as615"
-    sni: "127.0.0.1"
+    sni: "64.94.95.118"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
+    sni: "us01.duotg.top"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -627,50 +836,7 @@ proxies:
     sni: "www.microsoft.com"
     skip-cert-verify: true
     udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "77d6c87d-6cd2-48fe-8bda-b37fccf7f4a5"
-    sni: "www.apple.com.cn"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
     client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ppmk"
-    sni: "flat-firefly-6022.rixewi3168.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "flat-firefly-6022.rixewi3168.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -683,39 +849,39 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "owefv0_92Z540k2F_nx83245_J9130oS_tY"
+    sni: "borat-hopp.bumbleshrimp.com"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
+    client-fingerprint: "chrome"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "us01.duotg.top"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
+    password: "HOrViv"
+    sni: "download.windowsupdate.com"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
     skip-cert-verify: true
     udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "8qCNZU2XdtefT7uB4uPxgRR839btqMG8"
+    sni: "by01.botovod.space"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: ""
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -729,37 +895,8 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "sshs8_6481354771"
-    sni: "ul-singapore1.09vpn.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "77d6c87d-6cd2-48fe-8bda-b37fccf7f4a5"
-    sni: "www.lamer.com.sg"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
     password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "us01.duotg.top"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -767,8 +904,35 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "a126f35c-e832-4115-8593-b723ade3f7be"
-    sni: "hk.catxstar.com"
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HOrViv"
+    sni: "ctldl.windowsupdate.com"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
@@ -788,23 +952,23 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "77d6c87d-6cd2-48fe-8bda-b37fccf7f4a5"
-    sni: "www.apple.com.cn"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "19877587-ed94-4033-88cd-4ac50a5e8718"
-    sni: "dimskiee.biz.id"
+    password: "humanity"
+    sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/WangCai-8"
+      path: "/assignment"
       headers:
-        Host: "dimskiee.biz.id"
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "5931134d1cde66bf83a54acdfebe7ab2"
+    sni: "moltbot.doctoroyy.net"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -818,13 +982,16 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "bpb-trojan"
-    sni: "127.0.0.1"
+    password: "4vv7n2frqrp6xtns"
+    sni: "uwu.dianaw.cc.cd"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr?ed=2560"
+      path: "/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net"
+      headers:
+        Host: "uwu.dianaw.cc.cd"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -833,62 +1000,11 @@ proxies:
     sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
         Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "64.94.95.118"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "02cd3bac-2a78-4dbb-82b9-6b64084ddd8e"
-    sni: "www.microsoft.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "owefv0_92Z540k2F_nx83245_J9130oS_tY"
-    sni: "borat-hopp.bumbleshrimp.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "a126f35c-e832-4115-8593-b723ade3f7be"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "a126f35c-e832-4115-8593-b723ade3f7be"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -920,6 +1036,14 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -1082,6 +1206,14 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
 
   - name: "Fallback"
     type: fallback
@@ -1089,6 +1221,14 @@ proxy-groups:
     interval: 60
     lazy: true
     proxies:
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
