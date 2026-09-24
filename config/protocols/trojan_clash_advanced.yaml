@@ -61,56 +61,18 @@ dns:
 proxies:
   - name: "@rossinna77Github"
     type: trojan
-    server: "166.1.36.83"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.191.121"
+    server: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
     port: 443
     password: "Telegram_healer_config"
-    sni: "47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev"
+    sni: "6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/V2VWNDZAAEIdXVjOCkLfJnefnR5Pum?ed=2560"
+      path: "/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560"
       headers:
-        Host: "47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.18.41.190"
-    port: 443
-    password: "3c6d1933-b22a-484b-ac8a-63e24f5fba75"
-    sni: "nat11.outsidemyheart.space"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/w4e5yh0p945y3"
-      headers:
-        Host: "nat11.outsidemyheart.space"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.231.254"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
+        Host: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "185.220.238.77"
@@ -125,65 +87,32 @@ proxies:
       path: "/api"
   - name: "@rossinna77Github"
     type: trojan
-    server: "node8.quaxly.com"
-    port: 25040
-    password: "Km/pIG4AGCjCOiGWj5FsWA=="
-    sni: "/gay-anal"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/node8.quaxly.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.64.165"
+    server: "188.114.97.8"
     port: 443
     password: "Telegram_healer_config"
-    sni: "3w2hk6Zj92orJcJedMI77HzC.Ny49NuZ6g33rYkoWaZQUNl-B9GuN5T.wOrkERs.DEv"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr/owxywx7VjYMLyGu2JOQYjHwV67l?ed=2560"
-      headers:
-        Host: "3w2hk6zj92orjcjedmi77hzc.ny49nuz6g33rykowazqunl-b9gun5t.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.16.72.41"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "c0yr9j09y2l9g0td8wa5.2whbrirhjgslm43zjcqei.workers.dev"
-    port: 443
-    password: "-wb.oDfOeHifTGMVEf"
-    sni: "c0YR9J09y2l9G0Td8WA5.2whBRirhjgsLm43ZJcqei.WoRKers.DEv"
+    sni: "y9p34jPJMqjAZaYPF.pIiwdDIlXjcQEHR17aF22U7xK-yU.workers.DEv"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/CRGrZTTVLMALBJkE4?ed=2560"
+      path: "/tr/SniOCmVMzIWOA1FDZDeGODGx2lS1LV?ed=2560"
+      headers:
+        Host: "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+    server: "www.speedtest.net"
     port: 443
-    password: "Telegram_healer_config"
-    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
+    password: "Siw3_iSte@ulOTO,-"
+    sni: "4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
+      path: "/tr/JxEfewo91O5PbO3TqlIpmg43u"
+      headers:
+        Host: "4zgccbcb10pqyibnwmm4nvznj4.royaehman5.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
@@ -200,21 +129,7 @@ proxies:
         Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "188.114.96.7"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560"
-      headers:
-        Host: "bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.98.0"
+    server: "45.130.125.190"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -225,464 +140,6 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.66.44.212"
-    port: 443
-    password: "TsX0XJKMa2h$CbKr0k"
-    sni: "iDB8onmvBnTuyt5T7T6CejfW8vlRb.PagES.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/60XnEWrAQkStT4oTTwmkao9a4sc"
-      headers:
-        Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.19.229.21"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.132.19"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560"
-      headers:
-        Host: "vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.121.43"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "193.24.210.211"
-    port: 25040
-    password: "Km/pIG4AGCjCOiGWj5FsWA=="
-    sni: "/gay-anal"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "android"
-    network: ws
-    ws-opts:
-      path: "/node8.quaxly.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.66.137"
-    port: 2087
-    password: "50414e45-4c5f-5a45-5553-05920b4f8f35"
-    sni: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/05920b4f8f35"
-      headers:
-        Host: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "130.78.191.108"
-    port: 2053
-    password: "d5bee0afdbc500b8cda02d80"
-    sni: "nl2.pleiades.codes"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.96.3"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.160.103"
-    port: 2087
-    password: "50414e45-4c5f-5a45-5553-05920b4f8f35"
-    sni: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/05920b4f8f35"
-      headers:
-        Host: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "45.130.125.76"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "www.speedtest.net"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "z6y-dAoX0hyhDtDY.R720kpbyX2l3i406.worKerS.deV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/202Fq2rjAUfAkgGP?ed=2560"
-      headers:
-        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.16.72.50"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "35.246.185.109"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "dggg.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.174.10"
-    port: 443
-    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "5er0m2i2ens2ulpg7sjd45ugqs.87fcvt2k11501yno2txm6yw-mipj2kr.workers.dev"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "5Er0m2I2eNS2ULPg7Sjd45UGQs.87FCVt2K11501YnO2txm6yw-MiPJ2KR.worKERs.dEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/VCf8OF27gyXfyS3GNQ1ejyY7sy4?ed=2560"
-      headers:
-        Host: "5er0m2i2ens2ulpg7sjd45ugqs.87fcvt2k11501yno2txm6yw-mipj2kr.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "5.78.92.27"
-    port: 8443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.8.63"
-    port: 443
-    password: "5855d6850594830f"
-    sni: "AkbARIan34.j9Z65Ce2uyks.WoRKeRS.DEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/w2O3K3xXNYDKIxwOIw7?ed=2560"
-      headers:
-        Host: "akbarian34.j9z65ce2uyks.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "165.215.250.14"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "//assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.76.194"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/nDuppKYyUqsEcG0rcQEg5sghG0?ed"
-      headers:
-        Host: "x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.97.6"
-    port: 443
-    password: "humanity"
-    sni: "www.pleadcourt.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.pleadcourt.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.64.150.28"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "uh-e03ojzgq4ev7yy7b.6v46fk4wd2y8l5p2xtd.workers.dev"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "uH-E03OjZGQ4EV7yy7b.6V46fk4wd2Y8l5p2XTD.WORkErS.Dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/iXLpDGAew6fKEQeQY84txlnklnRciaQ?ed=2560"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.148.22"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/mPZ7O1CUbIBPGNPZQ2HeV?ed=2560"
-      headers:
-        Host: "to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
-    port: 443
-    password: "LcICDcp!jD9TFV$NbH"
-    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y"
-      headers:
-        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.66.47.44"
-    port: 443
-    password: "TsX0XJKMa2h$CbKr0k"
-    sni: "iDB8onmvBnTuyt5T7T6CejfW8vlRb.PagES.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/60XnEWrAQkStT4oTTwmkao9a4sc"
-      headers:
-        Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.28.88"
-    port: 443
-    password: "c0c17d1da2c2c9299d5094c8"
-    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "vless.herogoing.top"
-    port: 443
-    password: "bpb-trojan"
-    sni: "vless.herogoing.top"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "2.27.109.179"
-    port: 45464
-    password: "XuMweB2PWs"
-    sni: "2.27.109.179.sslip.io"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "88.99.189.60"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.170.113"
-    port: 443
-    password: "c0c17d1da2c2c9299d5094c8"
-    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "45.130.125.160"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "blackshadow.dpdns.org"
-    port: 443
-    password: "trojan"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "//195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.88.77"
-    port: 443
-    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/ZizffFwMuYF9RUfnS3Ad2bGqcOrQk?ed=2560"
-      headers:
-        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.98.0"
-    port: 443
-    password: "1710442808"
-    sni: "subb.nrshop198.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "subb.nrshop198.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "dggg.wsone.icu"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "dggg.wsone.icu"
-    skip-cert-verify: true
-    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "45.205.0.6"
@@ -699,61 +156,7 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.18.153.182"
-    port: 443
-    password: "19877587-ed94-4033-88cd-4ac50a5e8718"
-    sni: "dimskiee.biz.id"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/WangCai-8"
-      headers:
-        Host: "dimskiee.biz.id"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.122.10"
-    port: 2087
-    password: "123444"
-    sni: "northrendserver.sherekontop.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-      headers:
-        Host: "northrendserver.sherekontop.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.87.130"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "z6y-daOX0hyhDtdy.r720kPByx2l3i406.wOrKErS.DEv"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/UOAg5ubCk87OTaiIAxc0O?ed=2560"
-      headers:
-        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "185.18.250.245"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.18.42.98"
+    server: "172.64.145.158"
     port: 443
     password: "xhl549341"
     sni: "tro.baiyi.cloudns.org"
@@ -766,87 +169,6 @@ proxies:
         Host: "tro.baiyi.cloudns.org"
   - name: "@rossinna77Github"
     type: trojan
-    server: "www.speedtest.net"
-    port: 443
-    password: "c0c17d1da2c2c9299d5094c8"
-    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.218.38"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/dxyX388XOtyAjF3A?ed=2560"
-      headers:
-        Host: "1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "199.232.78.101"
-    port: 443
-    password: "MITIVpN"
-    sni: "ssl.fastly.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-    port: 2096
-    password: "50414e45-4c5f-5a45-5553-05920b4f8f35"
-    sni: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/05920b4f8f35"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "45.130.125.190"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "162.159.153.212"
-    port: 2087
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
     server: "109.206.241.10"
     port: 449
     password: "oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1"
@@ -856,29 +178,15 @@ proxies:
     client-fingerprint: "edge"
   - name: "@rossinna77Github"
     type: trojan
-    server: "34.131.228.210"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
+    server: "154.90.62.70"
+    port: 56127
+    password: "p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B"
+    sni: "154.90.62.70"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.17.147.22"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/mPZ7O1CUbIBPGNPZQ2HeV?ed=2560"
-      headers:
-        Host: "to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.121.71"
+    server: "104.16.122.175"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -905,76 +213,24 @@ proxies:
         Host: "app-538961.user-y0o4gm.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.21.42.129"
-    port: 2087
-    password: "eabf1999fefbb7d2"
-    sni: "WaYSi.wAYsI6688.WOrkeRS.deV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ"
-      headers:
-        Host: "waysi.waysi6688.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "100.42.228.109"
+    server: "172.67.218.38"
     port: 443
-    password: "BxceQaOe"
-    sni: "t.me/ripaojiedian"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.122.10"
-    port: 2083
-    password: "123444"
-    sni: "northrendserver.sherekontop.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-      headers:
-        Host: "northrendserver.sherekontop.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "119.246.1.143"
-    port: 443
-    password: "BxceQaOe"
-    sni: "119.246.1.143"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "199.232.78.160"
-    port: 443
-    password: "MITIVpN"
-    sni: "ssl.fastly.com"
+    password: "Telegram_healer_config"
+    sni: "1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
+      path: "/tr/dxyX388XOtyAjF3A?ed=2560"
       headers:
-        Host: "mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "tttyder.wsone.icu"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "tttyder.wsone.icu"
-    skip-cert-verify: true
-    udp: true
+        Host: "1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "188.42.145.180"
     port: 443
     password: "humanity"
-    sni: "wWw.Volumeroot.cOm."
+    sni: "www.volumeroot.com"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -982,61 +238,20 @@ proxies:
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.volumerOot.coM."
+        Host: "www.volumeroot.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "172.64.145.158"
+    server: "104.18.32.47"
     port: 443
-    password: "xhl549341"
-    sni: "tro.baiyi.cloudns.org"
+    password: "A4u^p(_UR*F6"
+    sni: "027.eLECTROcelLCO-cf-027.WorKerS.Dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/?ed=2560"
+      path: "/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
       headers:
-        Host: "tro.baiyi.cloudns.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.143.94"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/ZizffFwMuYF9RUfnS3Ad2bGqcOrQk?ed=2560"
-      headers:
-        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "jp3.998998.best"
-    port: 443
-    password: "3c6d1933-b22a-484b-ac8a-63e24f5fba75"
-    sni: "nat11.outsidemyheart.space"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/w4e5yh0p945y3"
-      headers:
-        Host: "nat11.outsidemyheart.space"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.174.10"
-    port: 443
-    password: "容解析错误trojan"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "//195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
+        Host: "027.electrocellco-cf-027.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "app-538961.user-y0o4gm.workers.dev"
@@ -1051,46 +266,20 @@ proxies:
       path: "/"
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.21.66.137"
-    port: 2096
-    password: "50414e45-4c5f-5a45-5553-05920b4f8f35"
-    sni: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
+    server: "blackshadow.dpdns.org"
+    port: 443
+    password: "trojan"
+    sni: "blackshadow.dpdns.org"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/stream/PANEL_ZEUS/05920b4f8f35"
+      path: "//195.123.218.174-443"
       headers:
-        Host: "o5zmxbeoutis.o7zluiebuo8s.workers.dev"
+        Host: "blackshadow.dpdns.org"
   - name: "@rossinna77Github"
     type: trojan
-    server: "193.233.87.41"
-    port: 8443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "185.114.72.31"
-    port: 2053
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "212.183.88.136"
+    server: "188.114.96.3"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -1103,51 +292,7 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "34.94.125.227"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "mxlo.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "34.101.126.150"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "qfdfsg.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "edu.ruangguru.com"
-    port: 443
-    password: "018b8e7b-7813-4dcb-84a5-3c98f1521e00"
-    sni: "id1.nathaya.web.id"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/trojan"
-      headers:
-        Host: "id1.nathaya.web.id"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.29.250"
-    port: 443
-    password: "LcICDcp!jD9TFV$NbH"
-    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y"
-      headers:
-        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.16.72.2"
+    server: "185.18.250.245"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -1160,134 +305,37 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "172.64.152.23"
+    server: "104.18.153.182"
     port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "19877587-ed94-4033-88cd-4ac50a5e8718"
+    sni: "dimskiee.biz.id"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/WangCai-8"
       headers:
-        Host: "www.calmlunch.com"
+        Host: "dimskiee.biz.id"
   - name: "@rossinna77Github"
     type: trojan
-    server: "188.114.96.8"
+    server: "uh-e03ojzgq4ev7yy7b.6v46fk4wd2y8l5p2xtd.workers.dev"
     port: 443
     password: "Telegram_healer_config"
-    sni: "y9p34JPJmQJazaYpf.pIIwDDIlxJcQEHr17af22U7XK-yu.workeRS.Dev"
+    sni: "uH-E03OjZGQ4EV7yy7b.6V46fk4wd2Y8l5p2XTD.WORkErS.Dev"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/1nWXnOaq1ajP7PKxbRS7Sdck48oy?ed=2560"
-      headers:
-        Host: "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev"
+      path: "/tr/iXLpDGAew6fKEQeQY84txlnklnRciaQ?ed=2560"
   - name: "@rossinna77Github"
     type: trojan
-    server: "185.225.68.232"
+    server: "162.159.253.41"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.16.123"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560"
-      headers:
-        Host: "7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.17.148.22"
-    port: 443
-    password: "c0c17d1da2c2c9299d5094c8"
-    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.96.9"
-    port: 443
-    password: "TsX0XJKMa2h$CbKr0k"
-    sni: "IdB8ONMVbntuYT5t7t6cEJfw8vLrb.paGEs.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/SW8uIUDDGS2sKyM3X5qAV"
-      headers:
-        Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/xwtrOUcg21SS0Ega?ed=2560"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.66.137"
-    port: 443
-    password: "50414e45-4c5f-5a45-5553-eeb34b317c4f"
-    sni: "rxziwiequtss.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/eeb34b317c4f"
-      headers:
-        Host: "rxziwiequtss.o7zluiebuo8s.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.205.222"
-    port: 2087
-    password: "eabf1999fefbb7d2"
-    sni: "waysi.waysi6688.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ"
-      headers:
-        Host: "waysi.waysi6688.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "185.220.100.168"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
@@ -1309,12 +357,70 @@ proxies:
         Host: "waysi.waysi6688.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "hyfuuf6.wsone.icu"
+    server: "104.18.12.149"
     port: 443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
+    password: "1710442808"
+    sni: "subb.nrshop198.workers.dev"
     skip-cert-verify: true
     udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "subb.nrshop198.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.8.63"
+    port: 443
+    password: "5855d6850594830f"
+    sni: "AkbARIan34.j9Z65Ce2uyks.WoRKeRS.DEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/w2O3K3xXNYDKIxwOIw7?ed=2560"
+      headers:
+        Host: "akbarian34.j9z65ce2uyks.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.174.10"
+    port: 443
+    password: "容解析错误trojan"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "185.114.72.31"
+    port: 2053
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "166.1.36.83"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "104.21.41.49"
@@ -1331,7 +437,7 @@ proxies:
         Host: "8tsmm6nspocz3ha9.khr2dz0ola61ydpze6zvu7jhcd4.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "185.18.250.252"
+    server: "172.67.231.254"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -1344,142 +450,29 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "151.101.56.90"
+    server: "188.114.98.0"
     port: 443
-    password: "MITIVpN"
-    sni: "ssl.fastly.com"
+    password: "1710442808"
+    sni: "subb.nrshop198.workers.dev"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
+      path: "/"
       headers:
-        Host: "mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net"
+        Host: "subb.nrshop198.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "rxziwiequtss.o7zluiebuo8s.workers.dev"
+    server: "vless.herogoing.top"
     port: 443
-    password: "50414e45-4c5f-5a45-5553-eeb34b317c4f"
-    sni: "rxziwiequtss.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/eeb34b317c4f"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "47.240.80.220"
-    port: 2052
-    password: "tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz"
-    sni: "vpn.12169.top"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "android"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "45.130.125.75"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "bpb-trojan"
+    sni: "vless.herogoing.top"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.16.71.213"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "lhns3ww2-cxq-gj1vvobkepig4nopkc.hqu4v38hi9iftcp6mzfmx-3bmx.workers.dev"
-    port: 443
-    password: "EPI4SnpMUxd6L-I.B9"
-    sni: "lHNs3ww2-CXQ-Gj1vvOBkEPIg4noPkc.hqu4v38Hi9iFtcp6mZfMX-3bmx.WoRKeRS.dEV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/bZQmUGcGvss6BIiQhIPr003mzA?ed=2560"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "soskeynets.0m68-qz3hqyfnlar6n3iq.workers.dev"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
-      headers:
-        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.97.9"
-    port: 443
-    password: "TsX0XJKMa2h$CbKr0k"
-    sni: "IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/mPwnfIHtx0vldKy0A5AGJTZB"
-      headers:
-        Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "35.244.28.130"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "tttyder.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.21.24.95"
-    port: 443
-    password: "Telegram_healer_config"
-    sni: "1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/zJi4ccv7FeEo780U?ed=2560"
-      headers:
-        Host: "1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "167.82.76.7"
-    port: 443
-    password: "MITIVpN"
-    sni: "ssl.fastly.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
-      headers:
-        Host: "mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net"
+      path: "/tr?ed=2560"
   - name: "@rossinna77Github"
     type: trojan
     server: "blackshadow.dpdns.org"
@@ -1495,21 +488,23 @@ proxies:
         Host: "blackshadow.dpdns.org"
   - name: "@rossinna77Github"
     type: trojan
-    server: "172.67.150.22"
+    server: "aa.ccmusic.jp"
     port: 443
-    password: "LcICDcp!jD9TFV$NbH"
-    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
+    password: "tsuchiya"
+    sni: "aa.ccmusic.jp"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560"
-      headers:
-        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    server: "hyfuuf6.wsone.icu"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "hyfuuf6.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.148.22"
     port: 443
     password: "c0c17d1da2c2c9299d5094c8"
     sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
@@ -1518,20 +513,64 @@ proxies:
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      path: "/eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
       headers:
         Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "154.90.62.70"
-    port: 56127
-    password: "p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B"
-    sni: "154.90.62.70"
+    server: "45.130.125.76"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "151.101.56.7"
+    server: "165.215.250.14"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "blackshadow.dpdns.org"
+    port: 443
+    password: "trojan"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.121.43"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "199.232.78.160"
     port: 443
     password: "MITIVpN"
     sni: "ssl.fastly.com"
@@ -1540,39 +579,97 @@ proxies:
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
       headers:
-        Host: "mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net"
+        Host: "mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net"
   - name: "@rossinna77Github"
     type: trojan
-    server: "172.64.144.251"
-    port: 2083
-    password: "Mehdi1234"
-    sni: "purple-recipe-5e30.cimavo4626.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "purple-recipe-5e30.cimavo4626.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.18.12.149"
+    server: "185.255.179.166"
     port: 443
-    password: "1710442808"
-    sni: "subb.nrshop198.workers.dev"
+    password: "humanity"
+    sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/"
+      path: "/assignment"
       headers:
-        Host: "subb.nrshop198.workers.dev"
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "91.245.225.79"
-    port: 2053
+    server: "45.32.157.84"
+    port: 443
+    password: "Tg3RnK7Xp8B1"
+    sni: "ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "www.speedtest.net"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.122.10"
+    port: 2083
+    password: "123444"
+    sni: "northrendserver.sherekontop.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "random"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "northrendserver.sherekontop.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.64.152.23"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "35.244.28.130"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "tttyder.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.83.220"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560"
+      headers:
+        Host: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.121.71"
+    port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
     skip-cert-verify: true
@@ -1597,91 +694,451 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "185.255.179.166"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "172.67.160.103"
-    port: 443
-    password: "50414e45-4c5f-5a45-5553-eeb34b317c4f"
-    sni: "rxziwiequtss.o7zluiebuo8s.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/stream/PANEL_ZEUS/eeb34b317c4f"
-      headers:
-        Host: "rxziwiequtss.o7zluiebuo8s.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "162.159.244.91"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "104.16.122.175"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "www.speedtest.net"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "188.114.97.8"
+    server: "172.67.182.52"
     port: 443
     password: "Telegram_healer_config"
-    sni: "y9p34jPJMqjAZaYPF.pIiwdDIlXjcQEHR17aF22U7xK-yU.workers.DEv"
+    sni: "6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/SniOCmVMzIWOA1FDZDeGODGx2lS1LV?ed=2560"
+      path: "/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560"
       headers:
-        Host: "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev"
+        Host: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.16.123"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560"
+      headers:
+        Host: "7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "tttyder.wsone.icu"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "tttyder.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.170.113"
+    port: 443
+    password: "c0c17d1da2c2c9299d5094c8"
+    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      headers:
+        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.96.3"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/3F3fUAGJks9doKvjt8AREH4QR?ed=2560"
+      headers:
+        Host: "cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "dggg.wsone.icu"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "dggg.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "34.131.228.210"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "hyfuuf6.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.191.121"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tr/V2VWNDZAAEIdXVjOCkLfJnefnR5Pum?ed=2560"
+      headers:
+        Host: "47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.87.130"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "z6y-daOX0hyhDtdy.r720kPByx2l3i406.wOrKErS.DEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/UOAg5ubCk87OTaiIAxc0O?ed=2560"
+      headers:
+        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.24.95"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/zJi4ccv7FeEo780U?ed=2560"
+      headers:
+        Host: "1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.28.88"
+    port: 443
+    password: "c0c17d1da2c2c9299d5094c8"
+    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      headers:
+        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.147.22"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.150.22"
+    port: 443
+    password: "LcICDcp!jD9TFV$NbH"
+    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y"
+      headers:
+        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.16.72.50"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.76.194"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/nDuppKYyUqsEcG0rcQEg5sghG0?ed"
+      headers:
+        Host: "x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.97.9"
+    port: 443
+    password: "TsX0XJKMa2h$CbKr0k"
+    sni: "IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/mPwnfIHtx0vldKy0A5AGJTZB"
+      headers:
+        Host: "idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.205.222"
+    port: 2087
+    password: "eabf1999fefbb7d2"
+    sni: "waysi.waysi6688.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ"
+      headers:
+        Host: "waysi.waysi6688.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "199.232.78.101"
+    port: 443
+    password: "MITIVpN"
+    sni: "ssl.fastly.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.29.250"
+    port: 443
+    password: "LcICDcp!jD9TFV$NbH"
+    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560"
+      headers:
+        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.18.41.190"
+    port: 443
+    password: "3c6d1933-b22a-484b-ac8a-63e24f5fba75"
+    sni: "nat11.outsidemyheart.space"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/w4e5yh0p945y3"
+      headers:
+        Host: "nat11.outsidemyheart.space"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "www.calmlunch.com"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "35.246.185.109"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "dggg.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.97.3"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560"
+      headers:
+        Host: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
+    port: 443
+    password: "LcICDcp!jD9TFV$NbH"
+    sni: "dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560"
+      headers:
+        Host: "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.156.62"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "IJM8x9uGWPIQrMN-lo-S.ztl55lTKPUB38y36MCtgm.WOrKeRs.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/8g28WHK4FygFkZFa?ed=2560"
+      headers:
+        Host: "ijm8x9ugwpiqrmn-lo-s.ztl55ltkpub38y36mctgm.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "185.220.100.168"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.98.0"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.18.42.98"
+    port: 443
+    password: "xhl549341"
+    sni: "tro.baiyi.cloudns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "tro.baiyi.cloudns.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "47.250.84.25"
     port: 443
     password: "5931134d1cde66bf83a54acdfebe7ab2"
-    sni: "moltbot.doctoroyy.net"
+    sni: "47.250.84.25"
     skip-cert-verify: true
     udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "167.82.76.7"
+    port: 443
+    password: "MITIVpN"
+    sni: "ssl.fastly.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "151.101.56.7"
+    port: 443
+    password: "MITIVpN"
+    sni: "ssl.fastly.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN"
+      headers:
+        Host: "mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/ZizffFwMuYF9RUfnS3Ad2bGqcOrQk?ed=2560"
+      headers:
+        Host: "z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.156.140"
+    port: 443
+    password: "d9f20a29-239e-46ab-82bb-fa0d69e480f9"
+    sni: "zxcvz.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "zxcvz.pages.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.19.64.105"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "104.18.32.47"
@@ -1698,7 +1155,48 @@ proxies:
         Host: "flat-firefly-6022.rixewi3168.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.19.64.105"
+    server: "172.67.132.19"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560"
+      headers:
+        Host: "vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.17.122.10"
+    port: 2087
+    password: "123444"
+    sni: "northrendserver.sherekontop.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "random"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "northrendserver.sherekontop.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "45.131.4.118"
+    port: 443
+    password: "f18d6149-e214-8554-e737-f7523c8b2eea"
+    sni: "0403.infinityconfig4.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/sync"
+      headers:
+        Host: "0403.infinityconfig4.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.19.229.21"
     port: 443
     password: "humanity"
     sni: "www.calmlunch.com"
@@ -1711,18 +1209,78 @@ proxies:
         Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
-    server: "104.19.63.25"
-    port: 443
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
+    server: "104.21.42.129"
+    port: 2087
+    password: "eabf1999fefbb7d2"
+    sni: "WaYSi.wAYsI6688.WOrkeRS.deV"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
+    client-fingerprint: "ios"
     network: ws
     ws-opts:
-      path: "/?ed=2560"
+      path: "/tr/sMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ"
       headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
+        Host: "waysi.waysi6688.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.64.150.28"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.16.72.2"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "161.34.39.108"
+    port: 443
+    password: "tsuchiya"
+    sni: "aa.ccmusic.jp"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "91.245.225.79"
+    port: 2053
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "45.130.125.75"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "8.47.69.0"
@@ -1738,18 +1296,416 @@ proxies:
         Host: "www.pleadcourt.org"
   - name: "@rossinna77Github"
     type: trojan
-    server: "172.64.80.1"
+    server: "185.225.68.232"
     port: 443
-    password: "Telegram_healer_config"
-    sni: "To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV"
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "c0yr9j09y2l9g0td8wa5.2whbrirhjgslm43zjcqei.workers.dev"
+    port: 443
+    password: "-wb.oDfOeHifTGMVEf"
+    sni: "c0YR9J09y2l9G0Td8WA5.2whBRirhjgsLm43ZJcqei.WoRKers.DEv"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tr/xwtrOUcg21SS0Ega?ed=2560"
+      path: "/tr/CRGrZTTVLMALBJkE4?ed=2560"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "www.speedtest.net"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/D0RNup7f2Tt0Tna3gVu5OvfMJYJjD?ed=2560"
       headers:
-        Host: "to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev"
+        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "45.130.125.160"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "2.27.109.179"
+    port: 45464
+    password: "XuMweB2PWs"
+    sni: "2.27.109.179.sslip.io"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "34.94.125.227"
+    port: 443
+    password: "M7v%w11Se*"
+    sni: "mxlo.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "5.78.92.27"
+    port: 8443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    port: 443
+    password: "c0c17d1da2c2c9299d5094c8"
+    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      headers:
+        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "212.183.88.136"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.67.174.10"
+    port: 443
+    password: "容解析错误trojan"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "88.99.189.60"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "blackshadow.dpdns.org"
+    port: 443
+    password: "容解析错误trojan"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.16.72.41"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "node8.quaxly.com"
+    port: 25040
+    password: "Km/pIG4AGCjCOiGWj5FsWA=="
+    sni: "/gay-anal"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/node8.quaxly.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "119.246.1.143"
+    port: 443
+    password: "BxceQaOe"
+    sni: "119.246.1.143"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.96.8"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "y9p34JPJmQJazaYpf.pIIwDDIlxJcQEHr17af22U7XK-yu.workeRS.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/1nWXnOaq1ajP7PKxbRS7Sdck48oy?ed=2560"
+      headers:
+        Host: "y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "47.240.80.220"
+    port: 2052
+    password: "tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz"
+    sni: "vpn.12169.top"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "android"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "151.101.56.90"
+    port: 443
+    password: "MITIVpN"
+    sni: "ssl.fastly.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSs---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1"
+      headers:
+        Host: "mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "chat.openai.com"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "188.114.96.7"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560"
+      headers:
+        Host: "bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.16.71.213"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "100.42.228.109"
+    port: 443
+    password: "BxceQaOe"
+    sni: "t.me/ripaojiedian"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "soskeynets.0m68-qz3hqyfnlar6n3iq.workers.dev"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
+      headers:
+        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "162.159.244.91"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "lhns3ww2-cxq-gj1vvobkepig4nopkc.hqu4v38hi9iftcp6mzfmx-3bmx.workers.dev"
+    port: 443
+    password: "EPI4SnpMUxd6L-I.B9"
+    sni: "lHNs3ww2-CXQ-Gj1vvOBkEPIg4noPkc.hqu4v38Hi9iFtcp6mZfMX-3bmx.WoRKeRS.dEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/bZQmUGcGvss6BIiQhIPr003mzA?ed=2560"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "www.speedtest.net"
+    port: 443
+    password: "c0c17d1da2c2c9299d5094c8"
+    sni: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      headers:
+        Host: "ez-3e9698.ezaccess1ec1f0c.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "172.64.144.251"
+    port: 2083
+    password: "Mehdi1234"
+    sni: "purple-recipe-5e30.cimavo4626.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "purple-recipe-5e30.cimavo4626.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "104.21.4.124"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560"
+      headers:
+        Host: "vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "5er0m2i2ens2ulpg7sjd45ugqs.87fcvt2k11501yno2txm6yw-mipj2kr.workers.dev"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "5Er0m2I2eNS2ULPg7Sjd45UGQs.87FCVt2K11501YnO2txm6yw-MiPJ2KR.worKERs.dEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/VCf8OF27gyXfyS3GNQ1ejyY7sy4?ed=2560"
+      headers:
+        Host: "5er0m2i2ens2ulpg7sjd45ugqs.87fcvt2k11501yno2txm6yw-mipj2kr.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "soskeynets.z6-0hlnubjibwzpa85.workers.dev"
+    port: 443
+    password: "Telegram_healer_config"
+    sni: "6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560"
+      headers:
+        Host: "6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "edu.ruangguru.com"
+    port: 443
+    password: "018b8e7b-7813-4dcb-84a5-3c98f1521e00"
+    sni: "id1.nathaya.web.id"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/trojan"
+      headers:
+        Host: "id1.nathaya.web.id"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "193.24.210.211"
+    port: 25040
+    password: "Km/pIG4AGCjCOiGWj5FsWA=="
+    sni: "/gay-anal"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "qq"
+    network: ws
+    ws-opts:
+      path: "/node8.quaxly.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "jp3.998998.best"
+    port: 443
+    password: "3c6d1933-b22a-484b-ac8a-63e24f5fba75"
+    sni: "nat11.outsidemyheart.space"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/w4e5yh0p945y3"
+      headers:
+        Host: "nat11.outsidemyheart.space"
 
 proxy-groups:
   # ── Top-level selector ────────────────────────────────────────────────────
@@ -1792,9 +1748,6 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -2064,9 +2017,6 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
 
   # ── Fastest-proxy groups ──────────────────────────────────────────────────
   - name: "FAST-ALL"
@@ -2206,9 +2156,6 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
 
   - name: "FAST-CDN"
     type: url-test
@@ -2217,9 +2164,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -2489,17 +2433,11 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
